@@ -1,9 +1,16 @@
+
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import { ref } from 'vue'
+
+
+
+/* script */
+
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <!-- HTML de la page  -->
   </main>
 </template>
