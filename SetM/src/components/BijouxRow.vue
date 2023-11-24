@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import bijouxCard from './bijouxCard.vue';
+import bijouxCard from './BijouxCard.vue';
 export default {
     components:{
         bijouxCard,
